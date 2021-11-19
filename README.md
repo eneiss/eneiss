@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eneiss&count_private=true)
 
 <!--
 **eneiss/eneiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
